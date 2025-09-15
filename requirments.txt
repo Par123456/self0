@@ -1,0 +1,14 @@
+pyrogram~=2.0.106 # Or the latest stable Pyrogram 2.x version
+python-dotenv~=1.0.0
+Pillow~=10.0.0
+aiohttp~=3.8.5
+googletrans==4.0.0-rc1 # Specific version for googletrans-py functionality
+wikipedia-api~=0.5.4
+requests~=2.31.0
+beautifulsoup4~=4.12.2
+SQLModel~=0.0.14 # Or the latest stable version of SQLModel
+psutil~=5.9.5
+qrcode~=7.4.2
+pyfiglet~=1.0.2
+pyspellchecker~=0.7.2
+gTTS~=2.4.0 # For the actual .tovoice command if implemented
